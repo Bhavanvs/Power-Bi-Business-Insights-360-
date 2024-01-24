@@ -16,6 +16,7 @@ I Am Bhavan VS, worked on this project by following the Codebasics PowerBi Cours
 **PowerBI Techniques Learned:**
 
 1.Asking the right questions before starting a project
+
 2.Creating calculated columns
 3.Creating measures using the DAX language
 4.Data modeling
