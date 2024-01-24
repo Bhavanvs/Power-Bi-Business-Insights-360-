@@ -6,7 +6,7 @@ I, Bhavan VS, worked on this project by following the Codebasics PowerBi Course 
 
 **Tech Stacks:**
 
-1.SQL
+1.SQLz
 2.PowerBi Desktop
 3.Excel
 4.DAX language
